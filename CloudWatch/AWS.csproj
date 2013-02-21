@@ -40,9 +40,9 @@
     <Reference Include="AWS.Extensions">
       <HintPath>H:\Program Files (x86)\AWS SDK for .NET\bin\AWS.Extensions.dll</HintPath>
     </Reference>
-    <Reference Include="AWSSDK, Version=1.5.4.1, Culture=neutral, PublicKeyToken=cd2d24cd2bace800, processorArchitecture=MSIL">
+    <Reference Include="AWSSDK, Version=1.5.14.0, Culture=neutral, PublicKeyToken=9f476d3089b52be3, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>H:\Program Files (x86)\AWS SDK for .NET\bin\AWSSDK.dll</HintPath>
+      <HintPath>..\packages\AWSSDK.1.5.14.0\lib\AWSSDK.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
       <HintPath>..\packages\NUnit.2.6.1\lib\nunit.framework.dll</HintPath>
